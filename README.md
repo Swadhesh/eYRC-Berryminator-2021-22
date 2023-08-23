@@ -4,6 +4,8 @@
 
 The theme is set in a simulated environment where indoor vertical farming is explored. The arena is an abstraction of a farm where different types of berries are cultivated in vertically stacked trays in different rooms. A robot navigates through these rooms and galleries of the farm and harvest berries based on factors such as: size, ripeness and quantity required.
 
+## Simulation link: https://youtu.be/cwYZ_VC0zDY
+
 ### Task 0 
 We solved some basic and intermediate level Python problems in Codechef and we installed Anaconda/ Miniconda in our systems for implementation of further tasks.
 ### Task 1 
